@@ -1,6 +1,0 @@
-framework module YDSubProject {
-  umbrella header "YDSubProject-umbrella.h"
-
-  export *
-  module * { export * }
-}
